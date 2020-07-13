@@ -1,0 +1,1 @@
+<?xml version="1.0"?><ScheduleTraining xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.net/Messages"><TrainingId>4e7b789f-ab1c-459c-be87-508a04600e5b</TrainingId></ScheduleTraining>

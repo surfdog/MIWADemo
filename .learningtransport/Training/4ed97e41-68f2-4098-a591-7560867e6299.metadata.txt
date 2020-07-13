@@ -1,0 +1,14 @@
+{
+  "NServiceBus.MessageId": "7355f27c-6d42-437b-8d8c-abf7010abb13",
+  "NServiceBus.MessageIntent": "Send",
+  "NServiceBus.ConversationId": "5446625f-94b2-4323-bb24-abf7010abb13",
+  "NServiceBus.CorrelationId": "7355f27c-6d42-437b-8d8c-abf7010abb13",
+  "NServiceBus.ReplyToAddress": "SalesforceUI",
+  "NServiceBus.OriginatingMachine": "IP-C613DA7F",
+  "NServiceBus.OriginatingEndpoint": "SalesforceUI",
+  "$.diagnostics.originating.hostid": "2052855a988b6cab00e693682663a496",
+  "NServiceBus.ContentType": "text\/xml",
+  "NServiceBus.EnclosedMessageTypes": "Messages.CancelTraining, Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.Version": "7.3.0",
+  "NServiceBus.TimeSent": "2020-07-13 16:11:08:219172 Z"
+}

@@ -1,0 +1,1 @@
+<?xml version="1.0"?><CancelTraining xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.net/Messages"><TrainingId>8da7d13c-b0b9-4e81-8d34-8cd30ceef59c</TrainingId></CancelTraining>
